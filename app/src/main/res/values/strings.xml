@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AroundTheWorldQuiz</string>
+
+    <string name="yes_button">Yes!</string>
+    <string name="no_button">No!</string>
+
+    <!-- Question -->
+    <string name="quiz_question_1">North pole is a land ?</string>
+    <string name="quiz_question_2">Arctic Ocean is the smallest ocean ?</string> <!-- YES -->
+    <string name="quiz_question_3">The country that host World cup 2010 is Brazil ?</string> <!-- NO -->
+
+    <string name="incorrect_answer">Wrong! </string>
+    <string name="correct_answer">Correct! </string>
+    <string name="next_question_button">Next Question</string>
+</resources>
