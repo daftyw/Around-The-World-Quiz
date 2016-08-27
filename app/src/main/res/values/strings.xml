@@ -12,4 +12,11 @@
     <string name="incorrect_answer">Wrong! </string>
     <string name="correct_answer">Correct! </string>
     <string name="next_question_button">Next Question</string>
+    <string name="open_cheat">Open Cheat</string>
+
+    <string name="answer_is_yes">Answer is Yes</string>
+    <string name="answer_is_no">Answer is No!</string>
+    <string name="no_answer">There is no loaded answer now</string>
+    <string name="go_back">Go Back</string>
+    <string name="no_right_to_answer_this">You already cheated and have no right to answer it now!!</string>
 </resources>
